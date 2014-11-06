@@ -2,6 +2,11 @@
   "name": "phaedrajs",
   "version": "0.1.0",
   "description": "A Node.js application that will console.log how cool this is (for now).",
+  "keywords": [
+    "phaedra",
+    "phaedra.js",
+    "phaedrajs"
+  ],
   "homepage": "https://github.com/eubenesa/phaedrajs",
   "bugs": {
     "url": "https://github.com/eubenesa/phaedrajs/issues",
