@@ -1,0 +1,28 @@
+{
+  "name": "phaedrajs",
+  "version": "0.1.0",
+  "description": "A Node.js application that will console.log how cool this is (for now).",
+  "homepage": "https://github.com/eubenesa/phaedrajs",
+  "bugs": {
+    "url": "https://github.com/eubenesa/phaedrajs/issues",
+    "email": "eubene.sa@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Eubene Sa <eubene.sa@gmail.com> (https://twitter.com/EubeneSa)",
+  "main": "./lib/phaedra.js",
+  "bin": {
+    "phaedra": "./bin/phaedra"
+  },
+  "directories": {
+    "lib": "./lib",
+    "bin": "./bin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eubenesa/phaedrajs.git"
+  },
+  "dependencies": {
+    "colors": "^1.0.3",
+    "is-root": "^1.0.0"
+  }
+}
